@@ -1,0 +1,142 @@
+@import url('//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css');
+@import url('//netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css');
+
+#icons {
+    margin: 1em 0;
+}
+
+.modal {
+    width: 600px;
+}
+
+/*
+This code has been duplicated from
+http://fortawesome.github.com/Font-Awesome/assets/css/site.css
+*/
+
+.the-icons {
+list-style-type:none;
+margin:0;
+}
+
+.the-icons li {
+cursor:pointer;
+line-height:32px;
+height:32px;
+padding-left:12px;
+-webkit-border-radius:6px;
+-moz-border-radius:6px;
+border-radius:6px;
+}
+
+.the-icons li [class^="icon-"],
+.the-icons li [class*=" icon-"] {
+width:32px;
+font-size:14px;
+}
+
+.the-icons li:hover {
+background-color:#fbf4f4;
+}
+
+.the-icons li:hover [class^="icon-"],
+.the-icons li:hover [class*=" icon-"] {
+font-size:28px;
+vertical-align:middle;
+}
+
+.the-icons li:hover [class^="icon-"]:before,
+.the-icons li:hover [class*=" icon-"]:before {
+font-size:28px;
+vertical-align:-5px;
+}
+
+.modal .modal-body {
+overflow:hidden;
+max-height:none;
+padding-bottom:0;
+}
+
+.modal .modal-body .row {
+margin-bottom:15px;
+}
+
+.modal .modal-body div.thumbnail div {
+margin:8px;
+}
+
+.modal .modal-body .icon6 {
+width:330px;
+}
+
+.modal .modal-body .icon6>div.thumbnail>div {
+line-height:308px;
+height:294px;
+text-align:center;
+}
+
+.modal .modal-body .icon6>div.thumbnail>div i {
+font-size:280px;
+}
+
+.modal .modal-body .icon5 {
+width:180px;
+}
+
+.modal .modal-body .icon5>div.thumbnail>div {
+line-height:154px;
+height:147px;
+text-align:center;
+}
+
+.modal .modal-body .icon5>div.thumbnail>div i {
+font-size:140px;
+}
+
+.modal .modal-body .icon4 {
+width:215px;
+}
+
+.modal .modal-body .icon4>div.thumbnail>div {
+line-height:123.2px;
+height:117.6px;
+text-align:center;
+}
+
+.modal .modal-body .icon4>div.thumbnail>div i {
+font-size:112px;
+}
+
+.modal .modal-body .icon3 {
+width:120px;
+}
+
+.modal .modal-body .icon3>div.thumbnail>div {
+line-height:61.6px;
+height:58.8px;
+text-align:center;
+}
+
+.modal .modal-body .icon3>div.thumbnail>div i {
+font-size:56px;
+}
+
+.modal .modal-body .icon2 {
+width:75px;
+}
+
+.modal .modal-body .icon2>div.thumbnail>div {
+line-height:30.8px;
+height:29.4px;
+text-align:center;
+}
+
+.modal .modal-body .icon2>div.thumbnail>div i {
+font-size:28px;
+}
+
+.modal .modal-body .icon1>div.thumbnail>div {
+line-height:15.4px;
+height:14.7px;
+text-align:center;
+}
