@@ -1,0 +1,78 @@
+/*
+HyperREST API Icons    0.0.1
+Requires Font-Awesome ~3.0.2
+https://github.com/andreineculau/hyperrest-api-icons/
+*/
+
+/* API Concepts */
+.icon-api-user:before                 { content: "\f007"; }
+.icon-api-user-agent:before           { content: "\f109"; }
+.icon-api-uri:before                  { content: "\f029"; }
+.icon-api-resource:before             { content: "\f01c"; }
+.icon-api-home:before                 { content: "\f015"; }
+.icon-api-relation:before             { content: "\f0ec"; }
+.icon-api-link:before                 { content: "\f0c1"; }
+.icon-api-representation:before       { content: "\f0e0"; }
+.icon-api-entity:before               { content: "\f0d0"; }
+.icon-api-operation:before            { content: "\f111"; }
+.icon-api-header:before               { content: "\f0c6"; }
+.icon-api-payload:before              { content: "\f0f6"; }
+.icon-api-request:before              { content: "\f01a"; }
+.icon-api-response:before             { content: "\f01b"; }
+.icon-api-status:before               { content: "\f087"; }
+.icon-api-error:before                { content: "\f088"; }
+
+
+/* HTTP Request */
+.icon-http-request:before             { content: "\f01a"; }
+.icon-http-options:before             { content: "\f059"; }
+.icon-http-head:before                { content: "\f05a"; }
+.icon-http-get:before                 { content: "\f058"; }
+.icon-http-post:before                { content: "\f10c"; }
+.icon-http-patch:before               { content: "\f055"; }
+.icon-http-put:before                 { content: "\f06a"; }
+.icon-http-delete:before              { content: "\f057"; }
+
+
+/* HTTP Response */
+.icon-http-response:before            { content: "\f01b"; }
+.icon-http-status:before              { content: "\f087"; }
+.icon-http-error:before               { content: "\f088"; }
+
+
+/* HTTP Headers */
+.icon-http-header:before              { content: "\f0c6"; }
+.icon-http-location:before            { content: "\f041"; }
+.icon-http-content-type:before        { content: "\f003"; }
+.icon-http-accept:before              { content: "\f0b0"; }
+.icon-http-www-authenticate:before    { content: "\f023"; }
+.icon-http-authorization:before       { content: "\f084"; }
+.icon-http-auth:before                { content: "\f084"; }
+.icon-http-cache-control:before       { content: "\f021"; }
+.icon-http-cache:before               { content: "\f021"; }
+.icon-http-etag:before                { content: "\f02a"; }
+.icon-http-if-match:before            { content: "\f02a"; }
+.icon-http-if-none-match:before       { content: "\f02a"; }
+.icon-http-expires:before             { content: "\f017"; }
+.icon-http-date:before                { content: "\f073"; }
+.icon-http-last-modified:before       { content: "\f073"; }
+.icon-http-if-modified-since:before   { content: "\f073"; }
+.icon-http-if-unmodified-since:before { content: "\f073"; }
+
+
+/* Relation */
+.icon-rel-self:before            { content: "\f0e2"; }
+.icon-rel-edit:before            { content: "\f040"; }
+.icon-rel-bookmark:before        { content: "\f02e"; }
+.icon-rel-item:before            { content: "\f02b"; }
+.icon-rel-collection:before      { content: "\f02c"; }
+.icon-rel-describes:before       { content: "\f08b"; }
+.icon-rel-describedby:before     { content: "\f090"; }
+
+
+/* Misc */
+.icon-rest-rmm:before                 { content: "\f012"; }
+.icon-rest-hypermedia:before          { content: "\f0ac"; }
+.icon-rest-stateless:before           { content: "\f0ae"; }
+.icon-rest-coupling:before            { content: "\f074"; }
+.icon-http:before                     { content: "\f0fd"; }
