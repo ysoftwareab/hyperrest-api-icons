@@ -1,6 +1,6 @@
 @import url('//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css');
-@import url('//netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css');
-@import url('//rawgithub.com/hyperrest/api-icons/v0.0.2/hyperrest-api-icons.css');
+@import url('//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
+@import url('hyperrest-api-icons.css');
 
 #icons {
     margin: 1em 0;

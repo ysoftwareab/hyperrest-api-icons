@@ -1,78 +1,78 @@
 /*
-HyperREST API Icons    0.0.2
-Requires Font-Awesome ~3.0.2
+HyperREST API Icons    0.1.0
+Requires Font-Awesome ~4.1.0
 https://github.com/hyperrest/api-icons/
 */
 
 /* API Concepts */
-.icon-api-user:before                 { content: "\f007"; }
-.icon-api-user-agent:before           { content: "\f109"; }
-.icon-api-uri:before                  { content: "\f029"; }
-.icon-api-resource:before             { content: "\f01c"; }
-.icon-api-home:before                 { content: "\f015"; }
-.icon-api-relation:before             { content: "\f0ec"; }
-.icon-api-link:before                 { content: "\f0c1"; }
-.icon-api-representation:before       { content: "\f0e0"; }
-.icon-api-entity:before               { content: "\f0d0"; }
-.icon-api-operation:before            { content: "\f111"; }
-.icon-api-header:before               { content: "\f0c6"; }
-.icon-api-payload:before              { content: "\f0f6"; }
-.icon-api-request:before              { content: "\f01a"; }
-.icon-api-response:before             { content: "\f01b"; }
-.icon-api-status:before               { content: "\f087"; }
-.icon-api-error:before                { content: "\f088"; }
+.fa-api-user:before                 { content: "\f007"; }
+.fa-api-user-agent:before           { content: "\f109"; }
+.fa-api-uri:before                  { content: "\f029"; }
+.fa-api-resource:before             { content: "\f01c"; }
+.fa-api-home:before                 { content: "\f015"; }
+.fa-api-relation:before             { content: "\f0ec"; }
+.fa-api-link:before                 { content: "\f0c1"; }
+.fa-api-representation:before       { content: "\f0e0"; }
+.fa-api-entity:before               { content: "\f0d0"; }
+.fa-api-operation:before            { content: "\f111"; }
+.fa-api-header:before               { content: "\f0c6"; }
+.fa-api-payload:before              { content: "\f0f6"; }
+.fa-api-request:before              { content: "\f01a"; }
+.fa-api-response:before             { content: "\f01b"; }
+.fa-api-status:before               { content: "\f087"; }
+.fa-api-error:before                { content: "\f088"; }
 
 
 /* HTTP Request */
-.icon-http-request:before             { content: "\f01a"; }
-.icon-http-options:before             { content: "\f059"; }
-.icon-http-head:before                { content: "\f05a"; }
-.icon-http-get:before                 { content: "\f058"; }
-.icon-http-post:before                { content: "\f10c"; }
-.icon-http-patch:before               { content: "\f055"; }
-.icon-http-put:before                 { content: "\f06a"; }
-.icon-http-delete:before              { content: "\f057"; }
+.fa-http-request:before             { content: "\f01a"; }
+.fa-http-options:before             { content: "\f059"; }
+.fa-http-head:before                { content: "\f05a"; }
+.fa-http-get:before                 { content: "\f058"; }
+.fa-http-post:before                { content: "\f10c"; }
+.fa-http-patch:before               { content: "\f055"; }
+.fa-http-put:before                 { content: "\f06a"; }
+.fa-http-delete:before              { content: "\f057"; }
 
 
 /* HTTP Response */
-.icon-http-response:before            { content: "\f01b"; }
-.icon-http-status:before              { content: "\f087"; }
-.icon-http-error:before               { content: "\f088"; }
+.fa-http-response:before            { content: "\f01b"; }
+.fa-http-status:before              { content: "\f087"; }
+.fa-http-error:before               { content: "\f088"; }
 
 
 /* HTTP Headers */
-.icon-http-header:before              { content: "\f0c6"; }
-.icon-http-location:before            { content: "\f041"; }
-.icon-http-content-type:before        { content: "\f003"; }
-.icon-http-accept:before              { content: "\f0b0"; }
-.icon-http-www-authenticate:before    { content: "\f023"; }
-.icon-http-authorization:before       { content: "\f084"; }
-.icon-http-auth:before                { content: "\f084"; }
-.icon-http-cache-control:before       { content: "\f021"; }
-.icon-http-cache:before               { content: "\f021"; }
-.icon-http-etag:before                { content: "\f02a"; }
-.icon-http-if-match:before            { content: "\f02a"; }
-.icon-http-if-none-match:before       { content: "\f02a"; }
-.icon-http-expires:before             { content: "\f017"; }
-.icon-http-date:before                { content: "\f073"; }
-.icon-http-last-modified:before       { content: "\f073"; }
-.icon-http-if-modified-since:before   { content: "\f073"; }
-.icon-http-if-unmodified-since:before { content: "\f073"; }
+.fa-http-header:before              { content: "\f0c6"; }
+.fa-http-location:before            { content: "\f041"; }
+.fa-http-content-type:before        { content: "\f003"; }
+.fa-http-accept:before              { content: "\f0b0"; }
+.fa-http-www-authenticate:before    { content: "\f023"; }
+.fa-http-authorization:before       { content: "\f084"; }
+.fa-http-auth:before                { content: "\f084"; }
+.fa-http-cache-control:before       { content: "\f021"; }
+.fa-http-cache:before               { content: "\f021"; }
+.fa-http-etag:before                { content: "\f02a"; }
+.fa-http-if-match:before            { content: "\f02a"; }
+.fa-http-if-none-match:before       { content: "\f02a"; }
+.fa-http-expires:before             { content: "\f017"; }
+.fa-http-date:before                { content: "\f073"; }
+.fa-http-last-modified:before       { content: "\f073"; }
+.fa-http-if-modified-since:before   { content: "\f073"; }
+.fa-http-if-unmodified-since:before { content: "\f073"; }
 
 
 /* Relation */
-.icon-rel-self:before            { content: "\f0e2"; }
-.icon-rel-edit:before            { content: "\f040"; }
-.icon-rel-bookmark:before        { content: "\f02e"; }
-.icon-rel-item:before            { content: "\f02b"; }
-.icon-rel-collection:before      { content: "\f02c"; }
-.icon-rel-describes:before       { content: "\f08b"; }
-.icon-rel-describedby:before     { content: "\f090"; }
+.fa-rel-self:before                 { content: "\f0e2"; }
+.fa-rel-edit:before                 { content: "\f040"; }
+.fa-rel-bookmark:before             { content: "\f02e"; }
+.fa-rel-item:before                 { content: "\f02b"; }
+.fa-rel-collection:before           { content: "\f02c"; }
+.fa-rel-describes:before            { content: "\f08b"; }
+.fa-rel-describedby:before          { content: "\f090"; }
 
 
 /* Misc */
-.icon-rest-rmm:before                 { content: "\f012"; }
-.icon-rest-hypermedia:before          { content: "\f0ac"; }
-.icon-rest-stateless:before           { content: "\f0ae"; }
-.icon-rest-coupling:before            { content: "\f074"; }
-.icon-http:before                     { content: "\f0fd"; }
+.fa-rest-rmm:before                 { content: "\f012"; }
+.fa-rest-hypermedia:before          { content: "\f0ac"; }
+.fa-rest-stateless:before           { content: "\f0ae"; }
+.fa-rest-coupling:before            { content: "\f074"; }
+.fa-http:before                     { content: "\f0fd"; }
